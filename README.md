@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Jonatas, tenho 27 ano. Curso Análise e desenvolvimento de sistemas na FATEC, com o curso técnico em desenvolvimento de sistemas pela ETEC. Focado em transformar conceitos em soluções práticas. Meu objetivo é aplicar o conhecimento acadêmico em projetos que demonstrem minhas habilidades em Java e outras linguagem.
+Oi, sou o Jonatas. Curso Análise e desenvolvimento de sistemas na FATEC, com o curso técnico em desenvolvimento de sistemas pela ETEC. Meu objetivo é aplicar o conhecimento acadêmico em projetos que demonstrem minhas habilidades em Java e outras linguagem.
 
 ---
 
