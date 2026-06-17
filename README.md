@@ -1,16 +1,24 @@
-## Hi there 👋
+# Jonatas Cavalcante
 
-<!--
-**j0natasC/j0natasC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas | Backend Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Linguagens:** Java (Foco principal), SQL.
+- **Frameworks:** Spring Boot.
+- **Tools:** Git, Linux (Zorin OS/Ubuntu), Docker, Postman.
+- **Áreas:** Backend, CRM Tech, Automação.
+
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=j0natasC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+### 🛠 Minhas Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0natasC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+### 📫 Contatos
+- [LinkedIn](https://www.linkedin.com/in/jonatas-cavalcante) 
+
+
+---
+*Em constante aprendizado.*
